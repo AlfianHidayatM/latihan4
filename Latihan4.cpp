@@ -8,4 +8,6 @@ int main(){
 	
 	if (bilangan>0)
 	cout << "Ini Adalah Bilangan Positif" ;
+	
+	else if (bilangan<0)
 }
