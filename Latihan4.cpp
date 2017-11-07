@@ -11,4 +11,7 @@ int main(){
 	
 	else if (bilangan<0)
 	cout << "Ini Adalah Bilangan Negatif" ;
+	
+	else
+	cout << "Ini Adalah Bilangan Nol";
 }
