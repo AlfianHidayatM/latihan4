@@ -7,4 +7,5 @@ int main(){
 	cin >>bilangan;
 	
 	if (bilangan>0)
+	cout << "Ini Adalah Bilangan Positif" ;
 }
